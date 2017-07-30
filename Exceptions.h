@@ -6,7 +6,7 @@
 #ifndef DEEPLEARNING_TORCH_EXCEPTIONS_H_
 #define DEEPLEARNING_TORCH_EXCEPTIONS_H_
 
-#include <lua.hpp>
+#include <lua5.2/lua.hpp>
 
 namespace facebook { namespace deeplearning { namespace torch {
 
